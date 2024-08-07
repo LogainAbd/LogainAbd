@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logain!</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3863114-The-girl-and-her-laptop/attachments/10063837?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662779/screenshots/3863114/media/c152351e80b6ed830d9d752a07e0bd8f.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logainabd&label=Profile%20views&color=0e75b6&style=flat" alt="logainabd" /> </p>
 
